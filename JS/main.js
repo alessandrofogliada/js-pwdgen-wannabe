@@ -8,4 +8,4 @@ let cognomeUtente = prompt("inserisci il tuo cognome");
 let colorePreferito = prompt("inserisci il tuo colore preferito");
 
 // Infine scrivi sulla pagina nomecognomecolorepreferito23
-document.getElementById("mio_id").innerHTML = nomeUtente + cognomeUtente + colorePreferito + 2023
+document.getElementById("mio_id").innerHTML = nomeUtente + cognomeUtente + colorePreferito + 2023;
